@@ -42,8 +42,10 @@ peggy pls do not delete file T.T
 
 12.) git push origin (your name)
 
-13.) go to https://github.com/shivalipandya/repository/branches/yours and click new pull request
+13.) go to https://github.com/shivalipandya/repository/pulls and click new pull request
 
-14.) 
+14.) click on your name
+
+15.) blah blah 
 
 
