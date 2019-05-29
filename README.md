@@ -1,5 +1,5 @@
-# DO NOT DELETE
-pls
+# M2 TUTORIAL DO NOT DELETE
+fix or add steps if needed
 
 # Person #
 1.) Jason
