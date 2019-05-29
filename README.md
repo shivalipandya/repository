@@ -32,6 +32,8 @@ peggy pls do not delete file T.T
 
 7.) path to Person#.java
 
+DO git status AND MAKE SURE YOU ARE NOT IN MASTER BRANCH!!!
+
 8.) git add (Person#.java)
 
 9.) path to antlab
