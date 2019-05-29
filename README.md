@@ -50,4 +50,4 @@ DO git status AND MAKE SURE YOU ARE NOT IN MASTER BRANCH!!!
 
 15.) blah blah 
 
-
+Learn github commands: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
