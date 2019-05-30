@@ -33,7 +33,7 @@ public class Person4 {
       //Person 4 put your implementation here
       String modified = "";
       for (int index = 0; index < input.length(); index++) {
-        modified += (char)(input.charAt(index) + 1)
+        modified += (char)(input.charAt(index) + 1);
       }
       return modified;
     }
